@@ -1,4 +1,5 @@
 package chess;
+import boardgame.BoardException;;
 
 public class ChessException extends RuntimeException{
 
